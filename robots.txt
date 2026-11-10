@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unaibermudez.github.io/picharreal-fantasy-landing/sitemap-index.xml
